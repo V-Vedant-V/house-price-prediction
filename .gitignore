@@ -1,0 +1,38 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Data files (optional – comment out if you want to track CSVs)
+*.csv
+*.tsv
+*.xlsx
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+
+# Output files
+submission.csv
+*.log
