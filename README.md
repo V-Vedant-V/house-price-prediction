@@ -36,4 +36,4 @@ This project applies machine learning techniques to predict house sale prices us
 Clone the repo and open the Jupyter notebook to explore, train, or improve the model.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
+git clone https://github.com/V-Vedant-V/house-price-prediction.git
